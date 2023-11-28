@@ -1,0 +1,49 @@
+.back{
+   background-image: url("../images/back.jpg");
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.nave:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.nave{
+    text-decoration: none;
+    color: #7b8080;
+}
+
+.number{
+    background-color: #7b8080;
+    color: white;
+    border-radius: 100%;
+    padding: 5px;
+    margin-left: 150px;
+}
+
+.activess{
+    background-color: white;
+    color: #7AB9FC;
+    border-radius: 100%;
+    padding: 5px;
+}
+
+.actives{
+    background-color: #7AB9FC;
+    color: white;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 12px;
+    box-shadow: rgba(12, 99, 228, 0.79) 2px 3px 2px;
+}
+
+.activese{
+    background-color: #7AB9FC;
+    color: white;
+    padding: 12px;
+    box-shadow: rgba(12, 99, 228, 0.79) 2px 3px 2px;
+}
